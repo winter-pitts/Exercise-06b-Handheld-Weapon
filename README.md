@@ -6,7 +6,7 @@ A demonstration of this exercise is available at [https://youtu.be/QyioUMnDEok](
 
 This exercise explores attaching models together, preserving their animation. We will be working with a (slightly) modified version of the [3D-Character](https://github.com/BL-MSCH-C220-F22/3D-Character).
 
-Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-06b-Handheld-Weapon. Edit the LICENSE and replace BL-MSCH-C220-S21 with your full name. Commit your changes.
+Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-06b-Handheld-Weapon. Edit the LICENSE and replace BL-MSCH-C220-F22 with your full name. Commit your changes.
 
 Clone the repository to a Local Path on your computer.
 
@@ -67,7 +67,7 @@ A simple example of an animated character with a hand-held weapon. Press space t
 
 ## Implementation
 
-Built using Godot 3.4.2
+Built using Godot 3.5
 
 ## References
  - Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
